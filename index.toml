@@ -102,11 +102,6 @@ hash = "e77924d62045c29de5694b9a9d01740f58b91dde24e0390fc0d743170c5a6a43"
 metafile = true
 
 [[files]]
-file = "mods/camera-utils.pw.toml"
-hash = "a874cba850bda80474a7c536debd3ecd373f518f64486dd8955e2de187faee3f"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "352175742665ac35da00f24add6e133843bd696d2cece43e667c865a28cadf45"
 metafile = true
@@ -119,6 +114,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "770ccb1d75e21146f12747989e0978230ff693dbf28761b0c6db6b1e9113ebb6"
 metafile = true
 
 [[files]]
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0dd9437142e8e24e93dab11f5c4559dd27ded1e1a6a795ce3d87d88402e15505"
+hash = "a76bc5a4c6b8b90b0ecf7d64dc61b34891dec9bde2c9e8a40c61c403ccb61dc3"
 metafile = true
 
 [[files]]
@@ -202,6 +202,11 @@ hash = "12487ac43ff7a77be6a57fb43219fe021950be572aa663e6cbc089146429ebbd"
 metafile = true
 
 [[files]]
+file = "mods/modern-keybinding-fabric.pw.toml"
+hash = "78c832dc95e3e0c086fb67ac2c2c326e6598b77553bc4b37358d7985b06fce40"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "0237f48e59dc05dbb3839e36f0efe4b16865bf46b958ac4431a7fdcf4eb5bbbf"
 metafile = true
@@ -214,6 +219,16 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "66d69601d7a31afb680dea7b458f0d5e63a0a12be572d661ccc08418b618f360"
+metafile = true
+
+[[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "881e44e222d26298c56b5622bfacdf216a985bdf0dfedeb657d0c998b09c0abf"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "33f4ad36a9aad4e4bfa2cdbd9a472b9ca8bc89acee7751a5ba6ee988e1820208"
 metafile = true
 
 [[files]]
