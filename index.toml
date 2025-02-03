@@ -5,6 +5,14 @@ file = "LICENCE"
 hash = "5537d4d10b76b81b6e8dfd8b644480a4b1efa332fbb0cdb61126c5be781ef7b4"
 
 [[files]]
+file = "config/coords-hud/config.json"
+hash = "d2161114256d6bb9a0b04e37b1dbcc2b535b74a47e7f9605e8e649f9da0df0de"
+
+[[files]]
+file = "config/minihud.json"
+hash = "8ed550b11aa7281bdc2626483c7622b7235d87cd0c7c5d791a7c72747e85c7d5"
+
+[[files]]
 file = "datapacks/afk display v1.1.10 (MC 1.21-1.21.4).zip"
 hash = "11ef89c0bde03b62b65254cd7c0aa2a720bf37ff540e37f24d3ffb980c8b88ae"
 
@@ -159,11 +167,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
-metafile = true
-
-[[files]]
-file = "mods/freecam.pw.toml"
-hash = "41d0384a2f7fe9a1f148f534f72efc5e4730cc76181e2450ec2f2f9cde2ae494"
 metafile = true
 
 [[files]]
