@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiretap.pw.toml"
-hash = "c3d3417aaedc4fb1edd0f1b24120cd8278341efcad437599bcddb7b83ef5d052"
+hash = "2461fe118762c747b9af9d074fc1cdbca38d05bb6a8881f5150e37cea933e0aa"
 metafile = true
 
 [[files]]

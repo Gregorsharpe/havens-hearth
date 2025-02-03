@@ -1,6 +1,6 @@
 name = "Wiretap"
 filename = "wiretap-1.2.0+1.21.1.fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/q3tICGpu/versions/leUflnnZ/wiretap-1.2.0%2B1.21.1.fabric.jar"
