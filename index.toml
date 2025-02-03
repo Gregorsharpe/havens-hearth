@@ -317,6 +317,11 @@ hash = "c46fa05f2cdde6b6d00420ab451b49e3adf2e439309bf376c36db71167805396"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-title-screens.pw.toml"
+hash = "504b8cdf4d66df6e7e12374294936b0a7379bcd3ec936733bf153d245b5d1da5"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "5f9f72aacbc0041056412f18dd6ea18aa87a39307e7cd2babd80910e242fcb71"
 metafile = true

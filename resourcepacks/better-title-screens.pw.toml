@@ -1,0 +1,13 @@
+name = "Better Title Screens"
+filename = "Better Title Screens.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/e2bgeSv4/versions/aF6kXnWQ/Better%20Title%20Screens.zip"
+hash-format = "sha1"
+hash = "8549af700a9d9ce5ee072169f258ba4fa113cfc4"
+
+[update]
+[update.modrinth]
+mod-id = "e2bgeSv4"
+version = "aF6kXnWQ"
