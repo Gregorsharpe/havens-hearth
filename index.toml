@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "TODO.md"
-hash = "d598e9dc6df7645b7e129b04c6b5b7b3b8bbae9b3f507237a91cd99e04330d0c"
+hash = "c284a0c39570a45e15163a5a84ec5efdfaa9ed6cdf499ba27f9211ed60943902"
 
 [[files]]
 file = "datapacks/afk display v1.1.10 (MC 1.21-1.21.4).zip"
@@ -102,6 +102,11 @@ hash = "e77924d62045c29de5694b9a9d01740f58b91dde24e0390fc0d743170c5a6a43"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "a97367693fef2569f5b9a6d3e2366a2475db19933d8fc804abfcc419786d1abe"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "352175742665ac35da00f24add6e133843bd696d2cece43e667c865a28cadf45"
 metafile = true
@@ -142,8 +147,13 @@ hash = "141a4304ba64fe7882435138e5e5e6f380ef29825ede92bcb611fa74d1ae8890"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b231bd45453dfc94f49786b5da727dbae5ed1f02c01d54a124e971b48c7555f2"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a76bc5a4c6b8b90b0ecf7d64dc61b34891dec9bde2c9e8a40c61c403ccb61dc3"
+hash = "0dd9437142e8e24e93dab11f5c4559dd27ded1e1a6a795ce3d87d88402e15505"
 metafile = true
 
 [[files]]
@@ -164,6 +174,11 @@ metafile = true
 [[files]]
 file = "mods/inhabitor.pw.toml"
 hash = "ada1f4313c62d4166a2188d3c64f4ad88fc38dc6e16861fcb23707cb6986cb9d"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "08601df10fb926bbb8a0fe686b8c4d5f9019e06d39715dcc025d99e1ad2cee40"
 metafile = true
 
 [[files]]
@@ -227,6 +242,11 @@ hash = "881e44e222d26298c56b5622bfacdf216a985bdf0dfedeb657d0c998b09c0abf"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "33f4ad36a9aad4e4bfa2cdbd9a472b9ca8bc89acee7751a5ba6ee988e1820208"
 metafile = true
@@ -254,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ce2bc1974c20510a3ef099c935ad03fbee396cca1241ab673b180c393ccd2163"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "b8cd9f9a9985fce11bf5fdcd7fc8e571a14214210d242adc8b58cf79f2380551"
 metafile = true
 
 [[files]]
@@ -289,4 +314,24 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "c46fa05f2cdde6b6d00420ab451b49e3adf2e439309bf376c36db71167805396"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "5f9f72aacbc0041056412f18dd6ea18aa87a39307e7cd2babd80910e242fcb71"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "a6069e50f5f040ca578879297c8be5bb4affc4abeb83438bce51c801f938a564"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "c363c5cebefc114a08ca1bd415521554dc5d1ee7ef3843adad4846be548816ec"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "fef87582943760a2b187cc494f4b1f55b40425874a003fb221d1f4692331372c"
 metafile = true
