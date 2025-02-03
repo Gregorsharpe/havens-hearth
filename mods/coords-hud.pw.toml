@@ -1,0 +1,13 @@
+name = "Coords HUD"
+filename = "coordshud-1.2.4-mc1.21.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/D0D7J5Jj/versions/Jd34MvTH/coordshud-1.2.4-mc1.21.2.jar"
+hash-format = "sha1"
+hash = "e03c89b539fcd00a07f8261fea41b817a789fe36"
+
+[update]
+[update.modrinth]
+mod-id = "D0D7J5Jj"
+version = "Jd34MvTH"

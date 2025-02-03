@@ -1,0 +1,13 @@
+name = "Armor Statues Datapack"
+filename = "armor_statues_v2.14.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cfqq3Wh1/versions/GwCDYRR1/armor_statues_v2.14.0.zip"
+hash-format = "sha1"
+hash = "a17a6ecb724a04041b8cc22663188bed5f3c9c71"
+
+[update]
+[update.modrinth]
+mod-id = "Cfqq3Wh1"
+version = "GwCDYRR1"

@@ -1,0 +1,3 @@
+- Check to see if minihud is configurable / able to be permissioned.
+- Same as above for Camera Utils / Freecam.
+- Make sure we can still label shulkerboxes.

@@ -1,0 +1,16 @@
+name = "Haven's Hearth"
+author = "Waveformal"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "74dd4d1e3cdd8b9be4a6292ae0d040dc57d64b9cfd764a892689f7ae63c1b3f2"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"
+
+[options]
+datapack-folder = "datapacks"

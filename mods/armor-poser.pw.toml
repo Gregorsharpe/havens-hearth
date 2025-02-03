@@ -1,0 +1,13 @@
+name = "Armor Poser"
+filename = "ArmorPoser-fabric-1.21.4-8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PFwYNrHb/versions/oHSKvtDH/ArmorPoser-fabric-1.21.4-8.0.1.jar"
+hash-format = "sha1"
+hash = "cd3060ed1afd3937f06754c2d7e4cc18f2d321d9"
+
+[update]
+[update.modrinth]
+mod-id = "PFwYNrHb"
+version = "oHSKvtDH"

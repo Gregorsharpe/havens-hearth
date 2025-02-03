@@ -1,0 +1,13 @@
+name = "Name Formatting Station Datapack"
+filename = "name_formatting_station_v2.5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1s7zUX2O/versions/eKFrEd4h/name_formatting_station_v2.5.zip"
+hash-format = "sha1"
+hash = "738d83b52d40183f2c6598b902dbbf5bd953e9c7"
+
+[update]
+[update.modrinth]
+mod-id = "1s7zUX2O"
+version = "eKFrEd4h"

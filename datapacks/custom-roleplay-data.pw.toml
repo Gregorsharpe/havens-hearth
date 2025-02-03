@@ -1,0 +1,13 @@
+name = "Custom Roleplay Data"
+filename = "custom_roleplay_data_v1.5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2pK3w13d/versions/9hCPx2N1/custom_roleplay_data_v1.5.zip"
+hash-format = "sha1"
+hash = "3df4dfe72d50aaab35a5bd6b8713a732fa1c8292"
+
+[update]
+[update.modrinth]
+mod-id = "2pK3w13d"
+version = "9hCPx2N1"
