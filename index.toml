@@ -305,11 +305,6 @@ hash = "b74e981f8eb60c868f6714185ed6ceed0d51871bce6bc0541fbda5f17e9c6ec8"
 metafile = true
 
 [[files]]
-file = "mods/wiretap.pw.toml"
-hash = "2461fe118762c747b9af9d074fc1cdbca38d05bb6a8881f5150e37cea933e0aa"
-metafile = true
-
-[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "c46fa05f2cdde6b6d00420ab451b49e3adf2e439309bf376c36db71167805396"
 metafile = true
