@@ -9,6 +9,10 @@ file = "config/coords-hud/config.json"
 hash = "d2161114256d6bb9a0b04e37b1dbcc2b535b74a47e7f9605e8e649f9da0df0de"
 
 [[files]]
+file = "config/litematica.json"
+hash = "82c562679f2c591e506a76ab237635fe1e8b90fa0241249ab4e6db4e4f1bc1fc"
+
+[[files]]
 file = "config/minihud.json"
 hash = "8ed550b11aa7281bdc2626483c7622b7235d87cd0c7c5d791a7c72747e85c7d5"
 
@@ -313,6 +317,10 @@ metafile = true
 file = "resourcepacks/better-title-screens.pw.toml"
 hash = "504b8cdf4d66df6e7e12374294936b0a7379bcd3ec936733bf153d245b5d1da5"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "d48945f9a1b6e0b72a17ffca81559929ce0ffea16e66b2e64e39a862f0781121"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
