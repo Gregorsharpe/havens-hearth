@@ -217,11 +217,6 @@ hash = "12487ac43ff7a77be6a57fb43219fe021950be572aa663e6cbc089146429ebbd"
 metafile = true
 
 [[files]]
-file = "mods/modern-keybinding-fabric.pw.toml"
-hash = "78c832dc95e3e0c086fb67ac2c2c326e6598b77553bc4b37358d7985b06fce40"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "0237f48e59dc05dbb3839e36f0efe4b16865bf46b958ac4431a7fdcf4eb5bbbf"
 metafile = true
