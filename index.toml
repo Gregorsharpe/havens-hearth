@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "TODO.md"
-hash = "c284a0c39570a45e15163a5a84ec5efdfaa9ed6cdf499ba27f9211ed60943902"
+file = "LICENCE"
+hash = "5537d4d10b76b81b6e8dfd8b644480a4b1efa332fbb0cdb61126c5be781ef7b4"
 
 [[files]]
 file = "datapacks/afk display v1.1.10 (MC 1.21-1.21.4).zip"
