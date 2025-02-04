@@ -1,0 +1,33 @@
+inactivityFpsLimit:"afk"
+narrator:0
+autoJump:false
+realmsNotifications:false
+directionalAudio:true
+bobView:false
+narratorHotkey:true
+resourcePacks:["vanilla","fabric","itemswapper:default","file/Better Title Screens.zip","continuity:glass_pane_culling_fix","continuity:default","file/FreshAnimations_v1.9.3.zip","file/FA+All_Extensions-v1.4.zip"]
+incompatibleResourcePacks:["controlling","searchables","spark","file/Better Title Screens.zip"]
+skipMultiplayerWarning:true
+allowServerListing:true
+key_key.spectatorOutlines:key.keyboard.unknown
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.entityculling.toggle:key.keyboard.unknown
+key_key.itemswapper.openInventory:key.keyboard.unknown
+key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.raised.options:key.keyboard.unknown
+key_options.narrator:key.keyboard.unknown
+key_key.push_to_talk:key.keyboard.unknown
+key_key.whisper:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.m
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.v
+key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_iris.keybind.wireframe:key.keyboard.unknown
