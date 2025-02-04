@@ -17,6 +17,21 @@ file = "config/minihud.json"
 hash = "8ed550b11aa7281bdc2626483c7622b7235d87cd0c7c5d791a7c72747e85c7d5"
 
 [[files]]
+file = "config/openloader/resources/better-title-screens.pw.toml"
+hash = "504b8cdf4d66df6e7e12374294936b0a7379bcd3ec936733bf153d245b5d1da5"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/fresh-animations-extensions.pw.toml"
+hash = "21bf0205d09a3cf7a43cffdb4b2cb2e05e60bac4fd74f527b447487460410af5"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/fresh-animations.pw.toml"
+hash = "ee2cfef7c5a8449139deaf78229cd39d6c516950c6cc8175cd6e79382bb25c08"
+metafile = true
+
+[[files]]
 file = "datapacks/afk display v1.1.10 (MC 1.21-1.21.4).zip"
 hash = "11ef89c0bde03b62b65254cd7c0aa2a720bf37ff540e37f24d3ffb980c8b88ae"
 
@@ -254,6 +269,11 @@ hash = "c0f80070f3bed878d56dab05a53377285a9ace2889656a4232d64dafbc2d0168"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "d312d3bfad2f3a4a85f140951336dd64bbdab718cae06f23e809f10f16181661"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "7f683cfcb0ba604a52d55df61f505e1e05bde8088a99d9356c5cdf71bc277235"
 metafile = true
@@ -336,21 +356,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "c46fa05f2cdde6b6d00420ab451b49e3adf2e439309bf376c36db71167805396"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-title-screens.pw.toml"
-hash = "504b8cdf4d66df6e7e12374294936b0a7379bcd3ec936733bf153d245b5d1da5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "21bf0205d09a3cf7a43cffdb4b2cb2e05e60bac4fd74f527b447487460410af5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "ee2cfef7c5a8449139deaf78229cd39d6c516950c6cc8175cd6e79382bb25c08"
 metafile = true
 
 [[files]]

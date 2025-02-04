@@ -1,0 +1,13 @@
+name = "Open Loader"
+filename = "OpenLoader-fabric-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "123a3fd53f6fffe75ee9313129feaa27d29f6f9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5884411
+project-id = 354339
