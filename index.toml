@@ -89,6 +89,11 @@ file = "datapacks/wandering trades v1.7.9 (MC 1.21-1.21.4).zip"
 hash = "ec19e711148121de7806adf9d480170d8cf01e18ccaa35a868d16f7a20c42cf1"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "0bbe6d0e6e2bc0bc90fda2da56cc12e3b56448185c5c3181939659670d13019f"
+metafile = true
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "fdd20192468955d0fce10abf58772851cae7bc0da7349e503c8bdc8341932e36"
 metafile = true
@@ -134,6 +139,11 @@ hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "11d3ae4d547191988efc278f995021d7e70d95ddc7ee3cdcce7ad5a9e0b00ce9"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "770ccb1d75e21146f12747989e0978230ff693dbf28761b0c6db6b1e9113ebb6"
 metafile = true
@@ -154,13 +164,28 @@ hash = "ae4d88c03c24c5811a80e10b2ddf1aa4ba410329d1618990ef7d96a7461e5d97"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "91d0463c632bba6af19bd04d83b8a0ce44b05a503b58399929ab9edd865bf408"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "141a4304ba64fe7882435138e5e5e6f380ef29825ede92bcb611fa74d1ae8890"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "3810f56064a5a6bd20d2bfd67a24f762f0643323969926f84cc1773c32b784a4"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "b231bd45453dfc94f49786b5da727dbae5ed1f02c01d54a124e971b48c7555f2"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "465f230d5f00064c3c9d6ce51cb2391ce49d210fcfd8ae177aa0a28e56086389"
 metafile = true
 
 [[files]]
@@ -226,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "0237f48e59dc05dbb3839e36f0efe4b16865bf46b958ac4431a7fdcf4eb5bbbf"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "c0f80070f3bed878d56dab05a53377285a9ace2889656a4232d64dafbc2d0168"
 metafile = true
 
 [[files]]
@@ -316,6 +346,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-title-screens.pw.toml"
 hash = "504b8cdf4d66df6e7e12374294936b0a7379bcd3ec936733bf153d245b5d1da5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "21bf0205d09a3cf7a43cffdb4b2cb2e05e60bac4fd74f527b447487460410af5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "ee2cfef7c5a8449139deaf78229cd39d6c516950c6cc8175cd6e79382bb25c08"
 metafile = true
 
 [[files]]
