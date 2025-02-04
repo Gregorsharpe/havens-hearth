@@ -354,7 +354,11 @@ hash = "ee2cfef7c5a8449139deaf78229cd39d6c516950c6cc8175cd6e79382bb25c08"
 metafile = true
 
 [[files]]
-file = "servers.dat"
+file = "sane-defaults/options.txt"
+hash = "d0873aa21d3097025fac5394c3c834cd0f7504163298848d7ec55a4b611d2473"
+
+[[files]]
+file = "sane-defaults/servers.dat"
 hash = "d48945f9a1b6e0b72a17ffca81559929ce0ffea16e66b2e64e39a862f0781121"
 
 [[files]]
