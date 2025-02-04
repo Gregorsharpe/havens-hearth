@@ -347,6 +347,10 @@ hash = "02143fd1bc85253d6695034ce43472e9c6bad01fce2c4e3f91477a4d55ccc4d3"
 preserve = true
 
 [[files]]
+file = "resourcepacks/MinimalArmor 1.20.4.zip"
+hash = "a9c4b8050b4ccb1aa23c9f0d316834361add052c6bd3cf5b2f01edcdc14bc0ad"
+
+[[files]]
 file = "resourcepacks/better-title-screens.pw.toml"
 hash = "504b8cdf4d66df6e7e12374294936b0a7379bcd3ec936733bf153d245b5d1da5"
 metafile = true
