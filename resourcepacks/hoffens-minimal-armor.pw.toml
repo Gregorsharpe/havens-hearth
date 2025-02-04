@@ -1,0 +1,13 @@
+name = "Hoffen's Minimal Armor"
+filename = "hoffens_minimal_armor_1.21.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/smyCeyp4/versions/XmyMgPrc/hoffens_minimal_armor_1.21.4.zip"
+hash-format = "sha1"
+hash = "948f692fd439925755043a71a340b5a8cd23bb46"
+
+[update]
+[update.modrinth]
+mod-id = "smyCeyp4"
+version = "XmyMgPrc"
