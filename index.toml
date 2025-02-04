@@ -164,11 +164,6 @@ hash = "ae4d88c03c24c5811a80e10b2ddf1aa4ba410329d1618990ef7d96a7461e5d97"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation.pw.toml"
-hash = "91d0463c632bba6af19bd04d83b8a0ce44b05a503b58399929ab9edd865bf408"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "141a4304ba64fe7882435138e5e5e6f380ef29825ede92bcb611fa74d1ae8890"
 metafile = true
