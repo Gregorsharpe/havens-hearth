@@ -97,6 +97,11 @@ hash = "0bbe6d0e6e2bc0bc90fda2da56cc12e3b56448185c5c3181939659670d13019f"
 metafile = true
 
 [[files]]
+file = "mods/antixray.pw.toml"
+hash = "3d699855df6707059c736d4696b0dfb3bfb4a8ec3202d4e5fe3545ed7e1286ee"
+metafile = true
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "fdd20192468955d0fce10abf58772851cae7bc0da7349e503c8bdc8341932e36"
 metafile = true
@@ -188,7 +193,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0dd9437142e8e24e93dab11f5c4559dd27ded1e1a6a795ce3d87d88402e15505"
+hash = "a76bc5a4c6b8b90b0ecf7d64dc61b34891dec9bde2c9e8a40c61c403ccb61dc3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "5b9d1e1ec60004c0bd38a134b7b8987583250200238abe84180b1f5bea839eae"
 metafile = true
 
 [[files]]
@@ -219,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "fbc20c2c39a285cb0eaf21a356e0e4947ed47aeb876b8b3ecf133ec5c4c1e9bb"
 metafile = true
 
 [[files]]
