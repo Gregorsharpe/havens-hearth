@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/antixray.pw.toml"
-hash = "3d699855df6707059c736d4696b0dfb3bfb4a8ec3202d4e5fe3545ed7e1286ee"
+hash = "c9daf35fa9a52ca94754c0fb034376ef9478dd649638e563786e954cb4bb7dde"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "fbc20c2c39a285cb0eaf21a356e0e4947ed47aeb876b8b3ecf133ec5c4c1e9bb"
+hash = "cce7455f57c1099ce707902057c1bfb2a86134e11d870348bcce1a348937095e"
 metafile = true
 
 [[files]]

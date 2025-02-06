@@ -1,6 +1,6 @@
 name = "AntiXray (Fabric)"
 filename = "antixray-fabric-1.4.8+1.21.4.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
