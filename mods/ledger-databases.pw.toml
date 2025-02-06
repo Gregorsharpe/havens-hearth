@@ -1,0 +1,13 @@
+name = "Ledger Databases"
+filename = "ledger-databases-1.2.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "854085be3e9f37f77d427614c61aff0f3c02081f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5286432
+project-id = 529404
