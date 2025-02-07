@@ -20,10 +20,6 @@ hash = "8ed550b11aa7281bdc2626483c7622b7235d87cd0c7c5d791a7c72747e85c7d5"
 preserve = true
 
 [[files]]
-file = "datapacks/afk display v1.1.10 (MC 1.21-1.21.4).zip"
-hash = "11ef89c0bde03b62b65254cd7c0aa2a720bf37ff540e37f24d3ffb980c8b88ae"
-
-[[files]]
 file = "datapacks/anti enderman grief v1.1.10 (MC 1.21-1.21.4).zip"
 hash = "917d79fe12113389fa29f5c69c8ed6d690d8ede365c3d5df73b1f801df66a507"
 
@@ -392,13 +388,12 @@ hash = "c78c862cd9f36057a6984b2d750b46c865447602211daccb63fbe79b9a17a7dc"
 preserve = true
 
 [[files]]
-file = "resourcepacks/better-title-screens.pw.toml"
-hash = "504b8cdf4d66df6e7e12374294936b0a7379bcd3ec936733bf153d245b5d1da5"
-metafile = true
+file = "resourcepacks/FA+All_Extensions-v1.4.zip"
+hash = "4e11ea5366cd47367bbc760d4e6a4aa724259c3c0298037147a138e21e4caf48"
 
 [[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "21bf0205d09a3cf7a43cffdb4b2cb2e05e60bac4fd74f527b447487460410af5"
+file = "resourcepacks/better-title-screens.pw.toml"
+hash = "504b8cdf4d66df6e7e12374294936b0a7379bcd3ec936733bf153d245b5d1da5"
 metafile = true
 
 [[files]]
