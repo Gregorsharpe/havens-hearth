@@ -299,11 +299,6 @@ hash = "0237f48e59dc05dbb3839e36f0efe4b16865bf46b958ac4431a7fdcf4eb5bbbf"
 metafile = true
 
 [[files]]
-file = "mods/multiworld.pw.toml"
-hash = "4cd4e406a2de2548ea1e4d1399bea6aab7ec831ccd5d1c7617aa29b0c260d9ca"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "c0f80070f3bed878d56dab05a53377285a9ace2889656a4232d64dafbc2d0168"
 metafile = true
