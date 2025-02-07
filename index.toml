@@ -42,10 +42,6 @@ file = "datapacks/durability ping v1.1.10 (MC 1.21-1.21.4).zip"
 hash = "c47d51eec684fc049d3b9f9b0a2a98d40f2c6bd6656d51e70cbbe21182b811b7"
 
 [[files]]
-file = "datapacks/fast leaf decay v2.0.15 (MC 1.21-1.21.4).zip"
-hash = "f192362e65d9381251533447e473f813f5162989b3777ca556c3949a38e09f76"
-
-[[files]]
 file = "datapacks/mini blocks v1.1.0 (MC 1.21-1.21.4).zip"
 hash = "169120f50693a1d78b7965aa78cce8d0aaa3f888d52bc4cd79a457a228e40a75"
 
@@ -228,6 +224,11 @@ hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "00d9b198ef82ecc127e22b10cb02798bf4170d8284a2f8b80a96d8275a490b35"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "485f230a4d6ce28bc67e8b6a475460016617ca2889e477274d762899d855485e"
 metafile = true
@@ -250,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "11a9b252a0202b6e58a3f63edad8cb8a15e14625600aacafd5ae5915e6d638ca"
 metafile = true
 
 [[files]]
@@ -300,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "7f683cfcb0ba604a52d55df61f505e1e05bde8088a99d9356c5cdf71bc277235"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "83250e75d2af556f19a69412eb048a23b27286ec97d30cf7b85d766a4b0dcf80"
 metafile = true
 
 [[files]]
