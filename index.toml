@@ -142,6 +142,16 @@ hash = "5e7d995d3cb71583e639864cd34e056e26a22dcfbbbee661289a798d6ad352da"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "01735a9d638c8fb4896c1a700eff0954aff8b854b517036bd9688e1d1754a7af"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "420b0532f4b089a6ebf10ec26fbfed2f5b9d3bf5c3bb0e55c9cdb5ed14522e15"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
 metafile = true
@@ -203,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a76bc5a4c6b8b90b0ecf7d64dc61b34891dec9bde2c9e8a40c61c403ccb61dc3"
+hash = "0dd9437142e8e24e93dab11f5c4559dd27ded1e1a6a795ce3d87d88402e15505"
 metafile = true
 
 [[files]]
