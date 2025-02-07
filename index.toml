@@ -6,7 +6,7 @@ hash = "5537d4d10b76b81b6e8dfd8b644480a4b1efa332fbb0cdb61126c5be781ef7b4"
 
 [[files]]
 file = "config/coords-hud/config.json"
-hash = "d2161114256d6bb9a0b04e37b1dbcc2b535b74a47e7f9605e8e649f9da0df0de"
+hash = "c32da67f0c49a9aeb2f1e47ea3321bc85a8a2ed9d758519a819c730296637e6a"
 preserve = true
 
 [[files]]
@@ -296,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "0237f48e59dc05dbb3839e36f0efe4b16865bf46b958ac4431a7fdcf4eb5bbbf"
+metafile = true
+
+[[files]]
+file = "mods/multiworld.pw.toml"
+hash = "4cd4e406a2de2548ea1e4d1399bea6aab7ec831ccd5d1c7617aa29b0c260d9ca"
 metafile = true
 
 [[files]]
