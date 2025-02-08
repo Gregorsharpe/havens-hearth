@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.pw.toml"
-hash = "39e33b29d4cde5c1aa791f6e9ad370d2870053fac926741c4d467539266347bc"
+hash = "9de4d66207546c6f865f709335740be02e88455336a615c3a0ec28307f48aabe"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/sqlite-jdbc.pw.toml"
-hash = "2372062a6b40806a48d3b8c8f957d62b9a41a98471c8d0efa6cace0904671370"
+hash = "df73c1f37c3125e8a406b4f174f8f14debb5976eb76256bbae25c8c764dcb4f0"
 metafile = true
 
 [[files]]
