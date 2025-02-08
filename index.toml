@@ -94,6 +94,11 @@ hash = "c9daf35fa9a52ca94754c0fb034376ef9478dd649638e563786e954cb4bb7dde"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e5287e0bfeaec81c0108148e7fd39ddcdd7f372428c157aef89a8e7fcdb6d156"
+metafile = true
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "fdd20192468955d0fce10abf58772851cae7bc0da7349e503c8bdc8341932e36"
 metafile = true
@@ -145,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
+hash = "759225faa85e3112ff935bba420bdde12ff766c848735e27a87920ae6ba61b4e"
 metafile = true
 
 [[files]]
@@ -210,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5b9d1e1ec60004c0bd38a134b7b8987583250200238abe84180b1f5bea839eae"
+hash = "98dd654d4a179825ed13cf12913aeee257b56c0986a8aa352b42749656bc47a7"
 metafile = true
 
 [[files]]
@@ -269,6 +274,11 @@ hash = "cce7455f57c1099ce707902057c1bfb2a86134e11d870348bcce1a348937095e"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "39e33b29d4cde5c1aa791f6e9ad370d2870053fac926741c4d467539266347bc"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "d5d9f89a2432ffda4ec5211b40a2885f71549f5f051af21ce6b42ae848762d24"
 metafile = true
@@ -289,11 +299,6 @@ hash = "f99e318b31916f54c8a84397ad3ebef068127bbc0b479b236645e0a44e822eeb"
 metafile = true
 
 [[files]]
-file = "mods/minihud.pw.toml"
-hash = "12487ac43ff7a77be6a57fb43219fe021950be572aa663e6cbc089146429ebbd"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "0237f48e59dc05dbb3839e36f0efe4b16865bf46b958ac4431a7fdcf4eb5bbbf"
 metafile = true
@@ -306,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "7f683cfcb0ba604a52d55df61f505e1e05bde8088a99d9356c5cdf71bc277235"
+metafile = true
+
+[[files]]
+file = "mods/playerstatistics.pw.toml"
+hash = "6b63fe4f98eff48d08bcc947465eca7d67ae976b86ccf7a2c8ed3ef992b13941"
 metafile = true
 
 [[files]]
@@ -376,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "e27fe109700a01799ec17f0f8ca473394a7de5cf3b527bcc8fd35bf2e62d77a9"
+metafile = true
+
+[[files]]
+file = "mods/sqlite-jdbc.pw.toml"
+hash = "2372062a6b40806a48d3b8c8f957d62b9a41a98471c8d0efa6cace0904671370"
 metafile = true
 
 [[files]]
