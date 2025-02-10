@@ -471,6 +471,11 @@ hash = "fef87582943760a2b187cc494f4b1f55b40425874a003fb221d1f4692331372c"
 metafile = true
 
 [[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
+hash = "626b928a06444e7b76bf804e1b880cea3baf2bf2c42bcca6e25517592f103ee8"
+metafile = true
+
+[[files]]
 file = "shaderpacks/solas-shader.pw.toml"
 hash = "90f0f949d1c5caec84b32ad9e4c773b1df4a00e250dabc9e6d3782bc22c385ba"
 metafile = true
