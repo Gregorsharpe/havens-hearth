@@ -394,6 +394,11 @@ hash = "df73c1f37c3125e8a406b4f174f8f14debb5976eb76256bbae25c8c764dcb4f0"
 metafile = true
 
 [[files]]
+file = "mods/vanish.pw.toml"
+hash = "7c8f28a1f5208eaee41e0a839106cbb07dce68884a388f5e660330af89987e48"
+metafile = true
+
+[[files]]
 file = "mods/view-distance-fix.pw.toml"
 hash = "df9d6f1c5f7c727edb7a43bd7db1151d4d20347c144faf5e804eb6267a8caf4f"
 metafile = true
@@ -455,4 +460,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
 hash = "fef87582943760a2b187cc494f4b1f55b40425874a003fb221d1f4692331372c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "90f0f949d1c5caec84b32ad9e4c773b1df4a00e250dabc9e6d3782bc22c385ba"
 metafile = true
