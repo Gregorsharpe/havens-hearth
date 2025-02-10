@@ -443,6 +443,14 @@ hash = "d48945f9a1b6e0b72a17ffca81559929ce0ffea16e66b2e64e39a862f0781121"
 preserve = true
 
 [[files]]
+file = "shaderpacks/SEUS PTGI E12.zip"
+hash = "929754228be39a7a3407be6f3c7f8f8f6fe84c14319840f9c3bba5695796ee4f"
+
+[[files]]
+file = "shaderpacks/SEUS-Renewed-v1.0.1.zip"
+hash = "76a1ff6c0d7827ecd0857e5a9b5298337f232662767abf0f011154c85b6da8ef"
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "5f9f72aacbc0041056412f18dd6ea18aa87a39307e7cd2babd80910e242fcb71"
 metafile = true
