@@ -209,6 +209,11 @@ hash = "a2de14cd864979906e2f2809d67762cff063372a8e9e2a8bed4d01b6338e49f4"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "b88d5927053bd68074e0b00f942a54cfe93aa86869eb6aabb3f8f7e9644874dd"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "0dd9437142e8e24e93dab11f5c4559dd27ded1e1a6a795ce3d87d88402e15505"
 metafile = true
