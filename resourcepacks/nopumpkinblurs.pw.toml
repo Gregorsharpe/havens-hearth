@@ -1,13 +1,13 @@
 name = "No Pumpkin Blur"
-filename = "§r§f- §6§l§nNo Pumpkin Blur§r §f- 1.20.3-1.20.4.zip"
+filename = "§r§f- §6§l§nNo Pumpkin Blur§r §f- 1.20.5-1.20.6.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/9YbddAEb/versions/5fK6w6YI/%C2%A7r%C2%A7f-%20%C2%A76%C2%A7l%C2%A7nNo%20Pumpkin%20Blur%C2%A7r%20%C2%A7f-%201.20.3-1.20.4.zip"
+url = "https://cdn.modrinth.com/data/9YbddAEb/versions/u5eI1vw4/%C2%A7r%C2%A7f-%20%C2%A76%C2%A7l%C2%A7nNo%20Pumpkin%20Blur%C2%A7r%20%C2%A7f-%201.20.5-1.20.6.zip"
 hash-format = "sha1"
-hash = "420de2249d30f7f2dfc46ad7bbd98fb51bfa4f14"
+hash = "b117da2767468394ae78f0d950e56c7c2faa1261"
 
 [update]
 [update.modrinth]
 mod-id = "9YbddAEb"
-version = "5fK6w6YI"
+version = "u5eI1vw4"
