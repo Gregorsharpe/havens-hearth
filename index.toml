@@ -5,11 +5,6 @@ file = "LICENCE"
 hash = "5537d4d10b76b81b6e8dfd8b644480a4b1efa332fbb0cdb61126c5be781ef7b4"
 
 [[files]]
-file = "config/coords-hud/config.json"
-hash = "c32da67f0c49a9aeb2f1e47ea3321bc85a8a2ed9d758519a819c730296637e6a"
-preserve = true
-
-[[files]]
 file = "config/litematica.json"
 hash = "82c562679f2c591e506a76ab237635fe1e8b90fa0241249ab4e6db4e4f1bc1fc"
 preserve = true
@@ -455,6 +450,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/hoffens-minimal-armor.pw.toml"
 hash = "2503db0087bc34f6ad4845c22a783af6d97dc6c9c3e52b64fbf92fd7aea93ab5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/nopumpkinblurs.pw.toml"
+hash = "a9f359394358a8b48de3042c6ac2c5af261cec8c8bf15bcc2c1d8847566fe018"
 metafile = true
 
 [[files]]
