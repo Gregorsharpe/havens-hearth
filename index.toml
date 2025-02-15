@@ -154,6 +154,11 @@ hash = "759225faa85e3112ff935bba420bdde12ff766c848735e27a87920ae6ba61b4e"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "3a1fac155b7ac0e722124e4793decf85b30c61f39e13ab205d9ee1586cba8732"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "11d3ae4d547191988efc278f995021d7e70d95ddc7ee3cdcce7ad5a9e0b00ce9"
 metafile = true
@@ -166,11 +171,6 @@ metafile = true
 [[files]]
 file = "mods/coord-finder.pw.toml"
 hash = "f4c2151d7089d05712a76705a5a5f6bac6eb30b73f8b569f5e93c998e53e2692"
-metafile = true
-
-[[files]]
-file = "mods/coords-hud.pw.toml"
-hash = "fd8f5fd3ca59736bc2a28e2fe603aa6082ecf38f6c7ddbdbe275f86296138e65"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0dd9437142e8e24e93dab11f5c4559dd27ded1e1a6a795ce3d87d88402e15505"
+hash = "b4da7761a4858fdb3428700e76c3fe8f8ecb6d7126b842e34d4d00db8e1974f0"
 metafile = true
 
 [[files]]
@@ -239,6 +239,11 @@ hash = "00d9b198ef82ecc127e22b10cb02798bf4170d8284a2f8b80a96d8275a490b35"
 metafile = true
 
 [[files]]
+file = "mods/gui-compass.pw.toml"
+hash = "7ee1306804bb022bb4d2d11c347efe996f3430351c627412762a2ebda25b10aa"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "485f230a4d6ce28bc67e8b6a475460016617ca2889e477274d762899d855485e"
 metafile = true
@@ -246,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/inhabitor.pw.toml"
 hash = "ada1f4313c62d4166a2188d3c64f4ad88fc38dc6e16861fcb23707cb6986cb9d"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "29f0f5496c25bebcf335994bcee5681f119763c8795e42bfd19a72d31b50d2cb"
 metafile = true
 
 [[files]]
@@ -306,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "0237f48e59dc05dbb3839e36f0efe4b16865bf46b958ac4431a7fdcf4eb5bbbf"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9a2cf1b5b5f996fdecc1c2b099fc715b20996bb0bd3b22b2af2588ec2abed567"
 metafile = true
 
 [[files]]
