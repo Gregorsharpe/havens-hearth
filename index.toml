@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "759225faa85e3112ff935bba420bdde12ff766c848735e27a87920ae6ba61b4e"
+hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b4da7761a4858fdb3428700e76c3fe8f8ecb6d7126b842e34d4d00db8e1974f0"
+hash = "1496fc84fca2df380f82777e2599c906a3c0aaecd3720416d8aa8d35efd74c86"
 metafile = true
 
 [[files]]
@@ -406,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/sqlite-jdbc.pw.toml"
 hash = "df73c1f37c3125e8a406b4f174f8f14debb5976eb76256bbae25c8c764dcb4f0"
+metafile = true
+
+[[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "d932e24368d2333ef529d639c7c71f71a7a87e5e9099f250b0dca2a832edcc49"
 metafile = true
 
 [[files]]
