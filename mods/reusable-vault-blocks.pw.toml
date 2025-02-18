@@ -1,0 +1,13 @@
+name = "Reusable Vault Blocks"
+filename = "Reusable Vault Blocks - Fabric [1.21.4].jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q9m3my28/versions/9181PsMi/Reusable%20Vault%20Blocks%20-%20Fabric%20%5B1.21.4%5D.jar"
+hash-format = "sha1"
+hash = "16abb54129368ae2652ea5150f1eb3a77d93ff01"
+
+[update]
+[update.modrinth]
+mod-id = "Q9m3my28"
+version = "9181PsMi"

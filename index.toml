@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b4da7761a4858fdb3428700e76c3fe8f8ecb6d7126b842e34d4d00db8e1974f0"
+hash = "1496fc84fca2df380f82777e2599c906a3c0aaecd3720416d8aa8d35efd74c86"
 metafile = true
 
 [[files]]
@@ -358,8 +358,8 @@ hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
 metafile = true
 
 [[files]]
-file = "mods/repeatable-trial-vaults.pw.toml"
-hash = "56fb90c6bed9689e417546ba3a03d3d88bf5371e7e500641b8fe61da55714ddc"
+file = "mods/reusable-vault-blocks.pw.toml"
+hash = "bf2518967831b60e2f1cba37e5a0662d0b3138ed26a8fd33fa5168456f524774"
 metafile = true
 
 [[files]]
