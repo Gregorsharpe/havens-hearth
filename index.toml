@@ -15,6 +15,10 @@ hash = "8ed550b11aa7281bdc2626483c7622b7235d87cd0c7c5d791a7c72747e85c7d5"
 preserve = true
 
 [[files]]
+file = "datapacks/Universal_Dye_MC1.21-1.21.4.zip"
+hash = "17fa4da6d4ec5d31fdf09d89cc137a20baa8de5a4e1c61903777a55ab9614ea5"
+
+[[files]]
 file = "datapacks/anti enderman grief v1.1.10 (MC 1.21-1.21.4).zip"
 hash = "917d79fe12113389fa29f5c69c8ed6d690d8ede365c3d5df73b1f801df66a507"
 
@@ -210,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1496fc84fca2df380f82777e2599c906a3c0aaecd3720416d8aa8d35efd74c86"
+hash = "b4da7761a4858fdb3428700e76c3fe8f8ecb6d7126b842e34d4d00db8e1974f0"
 metafile = true
 
 [[files]]
@@ -354,6 +358,11 @@ hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
 metafile = true
 
 [[files]]
+file = "mods/repeatable-trial-vaults.pw.toml"
+hash = "56fb90c6bed9689e417546ba3a03d3d88bf5371e7e500641b8fe61da55714ddc"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "33f4ad36a9aad4e4bfa2cdbd9a472b9ca8bc89acee7751a5ba6ee988e1820208"
 metafile = true
@@ -439,8 +448,28 @@ hash = "c78c862cd9f36057a6984b2d750b46c865447602211daccb63fbe79b9a17a7dc"
 preserve = true
 
 [[files]]
+file = "resourcepacks/Block_Variation_MC1.21.x.zip"
+hash = "549a32dcdbc119fe3a86c9b932664220f70c11be8db9182369657f29d89d8940"
+
+[[files]]
 file = "resourcepacks/FA+All_Extensions-v1.4.zip"
 hash = "4e11ea5366cd47367bbc760d4e6a4aa724259c3c0298037147a138e21e4caf48"
+
+[[files]]
+file = "resourcepacks/General_Improvements_MC1.21.x.zip"
+hash = "5c1b87d1d4bcb1d5f47dda95c56ecb859eb56ec9d8ac12ff63e87f8781543097"
+
+[[files]]
+file = "resourcepacks/Quiet_Portals_And_Dispensers_MC1.21.x.zip"
+hash = "c92198d7a51a7e0fe8b743cbbea0d084b5239d434c54fd2b63bf5254c72d3290"
+
+[[files]]
+file = "resourcepacks/SmoothFont_MC1.21.x.zip"
+hash = "d1e3fddf9ffe2069b8d6708d900360e128f73f06d9a2113cc747b2da1f657fbc"
+
+[[files]]
+file = "resourcepacks/Visual_Redstone_MC1.21.x.zip"
+hash = "512f0b4fed309641a2296654595362280e269ba1399aac1e2d893c2720168f8c"
 
 [[files]]
 file = "resourcepacks/better-title-screens.pw.toml"
