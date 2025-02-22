@@ -183,6 +183,11 @@ hash = "fb6b1705a971bf6c8cc44b02750c88c6f6561d21d909b654232c4581e4393ef7"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "5300c3e88b520e66fb74ada1d3b330310d3ede79070d11c3795b4d141a5f7dfd"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "141a4304ba64fe7882435138e5e5e6f380ef29825ede92bcb611fa74d1ae8890"
 metafile = true
